@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  origin: MyString
+  destination: MyString
+  routeSummary: MyString
+  travelTime: MyString
+  trevelMode: MyString
+  travelDistance: MyString
+
+two:
+  origin: MyString
+  destination: MyString
+  routeSummary: MyString
+  travelTime: MyString
+  trevelMode: MyString
+  travelDistance: MyString
